@@ -1,4 +1,4 @@
-# doneApp
+# Habit Tracker App
 
 <img 
   src="https://user-images.githubusercontent.com/79727679/184716743-db7c0ae5-c68c-4adb-950b-0ac30eed1b61.jpeg" 
